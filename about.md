@@ -6,4 +6,6 @@ permalink: /about/
 
 Hi! Thanks for spend your time reading my blog.
 
-My name is Luciano, I work with Unix-like operating system for a long time. When making your kernel was funny and took a long time.
+My name is Luciano, I working with Unix-like operating system a long time ago. Make and run your kernel was very funny.
+
+I like the approach of solving complex problems with simple solutions, and want to write about it.
